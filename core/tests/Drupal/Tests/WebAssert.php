@@ -17,6 +17,7 @@ use PHPUnit\Framework\Constraint\ArrayHasKey;
 use PHPUnit\Framework\Constraint\IsIdentical;
 use PHPUnit\Framework\Constraint\IsEqual;
 use PHPUnit\Framework\Constraint\LogicalNot;
+use TRegx\CleanRegex\Pattern;
 
 /**
  * Defines a class with methods for asserting presence of elements during tests.
@@ -469,12 +470,8 @@ class WebAssert extends MinkWebAssert {
         $value = count($parts) > 1 ? 'concat(' . implode(', \'"\', ', $parts) . ')' : $parts[0];
       }
 
-      // Use preg_replace_callback() instead of preg_replace() to prevent the
-      // regular expression engine from trying to substitute backreferences.
-      $replacement = function ($matches) use ($value) {
-        return $value;
-      };
-      $xpath = preg_replace_callback('/' . preg_quote($placeholder) . '\b/', $replacement, $xpath);
+      $pattern = Pattern::inject('@\b', $placeholder);
+      $xpath = $pattern->replace($xpath)->with($value);
     }
     return $xpath;
   }
