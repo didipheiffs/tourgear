@@ -1,0 +1,9 @@
+<div class="toggle">
+
+<h4 class="toggle-title">Toggle title one</h4>
+<div class="toggle-content">content of toggle one</div>
+
+<h4 class="toggle-title">Toggle title two</h4>
+<div class="toggle-content">content of toggle two</div>
+
+</div>

@@ -1,0 +1,30 @@
+Two Column Equal Width
++------------------------------------+
+<div class="columns">
+	<div class="column">First column content..</div>
+	<div class="column">Second column content..</div>
+</div>
+
+
+
+
+Three Column Equal Width
++------------------------------------+
+<div class="columns">
+	<div class="column">First column content..</div>
+	<div class="column">Second column content..</div>
+	<div class="column">Third column content..</div>
+</div>
+
+
+
+
+
+Four Column Equal Width
++------------------------------------+
+<div class="columns">
+	<div class="column">First column content..</div>
+	<div class="column">Second column content..</div>
+	<div class="column">Third column content..</div>
+	<div class="column">Fourth column content..</div>
+</div>

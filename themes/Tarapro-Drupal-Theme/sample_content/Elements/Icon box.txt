@@ -1,0 +1,20 @@
+Icon Box Style #1
++-------------------------------------+
+<div class="icon-box">
+	<i class="fa fa-life-ring" aria-hidden="true"></i>
+	<h4>Icon Box Title</h4>
+	<p>content of icon box</p>
+</div>
+
+
+
+
+Icon Box Style #2
++-------------------------------------+
+<div class="icon-box2">
+	<div class="icon"><i class="fa fa-life-ring" aria-hidden="true"></i></div>
+	<div class="box-content">
+		<h4>Icon Box Title</h4>
+		<p>content of icon box</p>
+	</div>
+</div>

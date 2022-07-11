@@ -1,0 +1,14 @@
+<div class="full text_center box animate-fadeInUp">
+	<div class="one_three">
+		<h2 class="theme-color">224+</h2>
+		<p>Satisfied Clients</p>
+	</div>
+	<div class="one_three">
+	<h2 class="theme-color">620+</h2>
+	<p>Completed Projects</p>
+	</div>
+	<div class="one_three">
+	<h2 class="theme-color">15</h2>
+	<p>Branches world wide</p>
+	</div>
+</div>

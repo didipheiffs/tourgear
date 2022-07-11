@@ -1,0 +1,65 @@
+<!-- Banner -->
+<div class="banner">
+	<img src="/images/demo-images/banner/banner1.jpg" alt="banner" />
+	<div class="banner-message">
+	Your Banner Message here..
+	</div>
+</div>
+
+<div class="full">
+<h3>Full Width Banner</h3>
+<div class="banner">
+	<img src="/images/demo-images/banner/banner1.jpg" alt="banner" />
+	<div class="banner-message">
+	Your Banner Message here..
+	</div>
+</div>
+</div> <!-- /.full -->
+
+<div class="full">
+<h3>Half Width Banner</h3>
+<div class="one-half">
+	<div class="banner">
+		<img src="/images/demo-images/banner/banner2.jpg" alt="banner" />
+		<div class="banner-message">
+		Your Banner Message here..
+		</div>
+	</div>
+</div>
+<div class="one-half">
+	<div class="banner">
+		<img src="/images/demo-images/banner/banner3.jpg" alt="banner" />
+		<div class="banner-message">
+		Your Banner Message here..
+		</div>
+	</div>
+</div>
+</div> <!-- /.full -->
+
+<div class="full">
+<h3>One-three width Banner</h3>
+<div class="one-three">
+	<div class="banner">
+		<img src="/images/demo-images/banner/banner4.jpg" alt="banner" />
+		<div class="banner-message">
+		Your Banner Message here..
+		</div>
+	</div>
+</div>
+<div class="one-three">
+	<div class="banner">
+		<img src="/images/demo-images/banner/banner5.jpg" alt="banner" />
+		<div class="banner-message">
+		Your Banner Message here..
+		</div>
+	</div>
+</div>
+<div class="one-three">
+	<div class="banner">
+		<img src="/images/demo-images/banner/banner6.jpg" alt="banner" />
+		<div class="banner-message">
+		Your Banner Message here..
+		</div>
+	</div>
+</div>
+</div> <!-- /.full -->

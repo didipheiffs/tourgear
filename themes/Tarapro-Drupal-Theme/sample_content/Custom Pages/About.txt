@@ -1,0 +1,91 @@
+<h3 class="text_center animate-fadeIn slow">We create the ideas and experiences that help progressive brands thrive</h3>
+<h3 class="text_center animate-fadeIn slow delay">We break the mold, adjusts to your creativity.</h3>
+<p class="text_center animate-fadeIn slow delay">We take the time to get to know our clients, so that we can effectively unite their business<br />objectives with intelligent creative digital design solutions.</p>
+<div class="full">
+	<div class="one_half animate-fadeIn delay">
+		<img src="https://demo2.drupar.com/images/demo-images/page-content/we-do.jpg" alt="image" />
+	</div> <!-- /.one_half -->
+	<div class="one_half animate-fadeIn delay-1s">
+		<h3>What we do</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+		<ul>
+			<li>We work alongside national and international </li>
+			<li>Committed to conducting its business </li>
+			<li>Responsible customer relations through clear </li>
+			<li>We work alongside national and international </li>
+		</ul>
+	</div><!-- /.one_half -->
+</div> <!-- /.full -->
+
+<div class="full">
+	<div class="one_half animate-fadeIn delay-1s">
+		<h3>Our Approach</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+		<ul>
+			<li>We work alongside national and international </li>
+			<li>Committed to conducting its business </li>
+			<li>Responsible customer relations through clear </li>
+			<li>We work alongside national and international </li>
+		</ul>
+	</div> <!-- /.one_half -->
+	<div class="one_half animate-fadeIn">
+		<img src="https://demo2.drupar.com/images/demo-images/page-content/step.jpg" alt="image" />
+	</div><!-- /.one_half -->
+</div> <!-- /.full -->
+
+<div class="full">
+	<div class="one_three box animate-fadeInLeft">
+		<h3>Our History</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+	</div><!-- /.one_three -->
+	<div class="one_three box animate-fadeInUp">
+		<h3>Our Mission</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+	</div> <!-- /.one_three -->
+	<div class="one_three box animate-fadeInRight">
+		<h3>Our Vision</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+	</div><!-- /.one_three -->
+</div> <!-- /.full -->
+
+<div class="full box text_center animate-fadeInUp delay-1s">
+	<h3 class="title">Professional Achievements</h3>
+	<div class="one_three">
+		<h2 class="theme-color">224</h2>
+		<p>Satisfied Clients</p>
+	</div>
+	<div class="one_three">
+	<h2 class="theme-color">624</h2>
+	<p>Completed Projects</p>
+	</div>
+	<div class="one_three">
+	<h2 class="theme-color">15</h2>
+	<p>Branches world wide</p>
+	</div>
+</div><!-- /.full -->
+<div class="full animate-fadeInUp">
+<h3 class="title">Our Team</h3>
+<p class="text_center">We love what we do and we do it with passion. We value the experimentation,<br />the reformation of the message, and the smart incentives.</p>
+<div class="one-three box">
+	<img src="/tarapro/images/team/1.jpg" alt="image" />
+	<p>Began Vives<br />
+	Project Manager<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></p>
+</div>
+<div class="one-three box">
+	<img src="/tarapro/images/team/2.jpg" alt="image" />
+	<p>
+	Jenny Wilson<br />
+	Managing Director<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+	</p>
+</div>
+<div class="one-three box">
+	<img src="/tarapro/images/team/3.jpg" alt="image" />
+	<P>
+	Hemant Saran<br />
+	Marketing Director<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+	</P>
+</div>
+</div><!-- /.full -->

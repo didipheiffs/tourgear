@@ -1,0 +1,48 @@
+<h3 class="text_center animate-fadeIn">We are an innovative digital marketing agency serving top</h3>
+<h3 class="text_center animate-fadeIn delay">brands with comprehensive online marketing services</h3>
+<p class="text_center animate-fadeIn delay-1s">We take the time to get to know our clients, so that we can effectively unite their business<br />objectives with intelligent creative digital design solutions.</p>
+<div class="services full">
+	<div class="service animate-fadeInUp">
+		<i class="fa fa-gift" aria-hidden="true"></i>
+		<h3>Branding</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service one -->
+	
+	<div class="service animate-fadeInUp">
+		<i class="fa fa-bullhorn" aria-hidden="true"></i>
+		<h3>Marketing</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service two -->
+	
+	<div class="service animate-fadeInUp">
+		<i class="fa fa-cogs" aria-hidden="true"></i>
+		<h3>Development</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service three -->
+</div>
+
+<div class="services full">
+	<div class="service animate-fadeInUp">
+		<i class="fa fa-video-camera" aria-hidden="true"></i>
+		<h3>Photography</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service one -->
+	
+	<div class="service animate-fadeInUp delay-1s">
+		<i class="fa fa-paint-brush" aria-hidden="true"></i>
+		<h3>Graphic Design</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service two -->
+	
+	<div class="service animate-fadeInUp delay-2s">
+		<i class="fa fa-tablet" aria-hidden="true"></i>
+		<h3>Mobile Apps</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service three -->
+</div>

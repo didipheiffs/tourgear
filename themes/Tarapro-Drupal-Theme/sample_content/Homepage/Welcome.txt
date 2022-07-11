@@ -1,0 +1,4 @@
+<div class="text_center animate-fadeInUp">
+<h4> We Provide Highly Creative Works & Design Awesome Stuff!</h4>
+<p>We provide the best services in the industry. Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web, graphic design, interface design, authoring, including standardised code.</p>
+</div>

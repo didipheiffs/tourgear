@@ -1,0 +1,63 @@
+Gallery - Single gallery one a page
++-------------------------------------------+
+<div class="gallery-slider owl-carousel">
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+</div>
+
+
+
+
+
+
+
+Gallery - Multiple galleries one a page
++-------------------------------------------+
+<div class="gallery-slider owl-carousel">
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+</div>
+
+
+<div class="gallery-slider1 owl-carousel">
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+</div>
+
+
+<div class="gallery-slider2 owl-carousel">
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+</div>
+
+
+<div class="gallery-slider3 owl-carousel">
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+</div>
+
+
+<div class="gallery-slider4 owl-carousel">
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+</div>
+
+
+<div class="gallery-slider5 owl-carousel">
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+	<div class="item"><img src="" alt="gallery" /></div>
+</div>

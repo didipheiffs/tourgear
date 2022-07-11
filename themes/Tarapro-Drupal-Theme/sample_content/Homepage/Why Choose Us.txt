@@ -1,0 +1,29 @@
+<div class="columns">
+<div class="column">
+	<div class="icon-box2">
+		<div class="icon"><i class="fa fa-life-ring" aria-hidden="true"></i></div>
+		<div class="box-content">
+			<h4>Fully Responsive</h4>
+			<p>Morbi scelerisque ligula sed accumsan sollicitudin in ultrici.</p>
+		</div>
+	</div>
+</div> <!-- /column -->
+<div class="column">
+	<div class="icon-box2">
+		<div class="icon"><i class="fa fa-diamond" aria-hidden="true"></i></div>
+		<div class="box-content">
+			<h4>Free Updates</h4>
+			<p>Morbi scelerisque ligula sed accumsan sollicitudin in ultrici.</p>
+		</div>
+	</div>
+</div> <!-- /column -->
+<div class="column">
+	<div class="icon-box2">
+		<div class="icon"><i class="fa fa-newspaper-o" aria-hidden="true"></i></div>
+		<div class="box-content">
+			<h4>Powerful Features</h4>
+			<p>Morbi scelerisque ligula sed accumsan sollicitudin in ultrici.</p>
+		</div>
+	</div>
+</div> <!-- /column -->
+</div>

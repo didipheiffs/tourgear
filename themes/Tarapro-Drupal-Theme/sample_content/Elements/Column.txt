@@ -1,0 +1,89 @@
+Full
++-------------------------------------------+
+<div class="full">
+	-- Your content in full  --
+</div>
+
+
+
+One Half
++-------------------------------------------+
+<div class="full">
+	<div class="one-half">
+	-- Your content in first one half --
+	</div>
+
+	<div class="one-half">
+	-- Your content in second one half --
+	</div>
+</div>
+
+
+
+One Three
++-------------------------------------------+
+<div class="full">
+	<div class="one-three">
+	-- Your content in one three 1 --
+	</div>
+	
+	<div class="one-three">
+	-- Your content in one three 2 --
+	</div>
+	
+	<div class="one-three">
+	-- Your content in one three 3 --
+	</div>
+</div>
+
+
+
+
+One Four
++-------------------------------------------+
+<div class="full">
+	<div class="one-four">
+	-- Your content in one four 1 --
+	</div>
+	
+	<div class="one-four">
+	-- Your content in one four 2 --
+	</div>
+	
+	<div class="one-four">
+	-- Your content in one four 3 --
+	</div>
+	
+	<div class="one-four">
+	-- Your content in one four 4 --
+	</div>
+</div>
+
+
+
+
+Two Three - One Three
++-------------------------------------------+
+<div class="full">
+	<div class="two-three">
+	-- Your content in two-three --
+	</div>
+	
+	<div class="one-three">
+	-- Your content in one three  --
+	</div>
+</div>
+
+
+
+
+One Three - Two Three
++-------------------------------------------+
+<div class="full">
+	<div class="one-three">
+	-- Your content in one three  --
+	</div>
+	<div class="two-three">
+	-- Your content in two-three --
+	</div>
+</div>

@@ -1,0 +1,9 @@
+<div class="accordion">
+
+<h4 class="accordion-title">Accordion title one</h4>
+<div class="accordion-content">content of accordion one</div>
+
+<h4 class="accordion-title">Accordion title two</h4>
+<div class="accordion-content">content of accordion two</div>
+
+</div>

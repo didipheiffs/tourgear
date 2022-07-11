@@ -1,0 +1,9 @@
+<div class="popup">
+	<button class="popup-open">Open Popup Button</button>
+<div class="popup-content">
+    <h4>Pop-Up Title</h4>
+    <p> Pop-Up content here...</p>
+   <!--popup's close button-->
+    <button class="popup-close">Close</button>    
+	</div><!--End popup message-->
+</div> <!-- /popup -->

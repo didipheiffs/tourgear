@@ -1,0 +1,47 @@
+<div class="pricing full">
+	<div class="one_three box">
+		<h3 class="plan-name">Basic</h3>
+		<div class="plan-price">$ 35 / month</div>
+		<ul class="plan-details">
+			<li>5 GB Storage</li>
+			<li>25 Emails</li>
+			<li>25 Domains</li>
+			<li>50 GB Bandwidth</li>
+			<li>Premium support</li>
+			<li>Plugin Bundle</li>
+			<li>Free updates</li>
+			<li>Fix bugs and errors</li>
+			<li><a class="button" href="#">Order Now</a></li>
+		</ul>
+	</div> <!-- .one three -->
+	<div class="one_three box">
+		<h3 class="plan-name">Standard</h3>
+		<div class="plan-price">$ 99 / month</div>
+		<ul class="plan-details">
+			<li>10 GB Storage</li>
+			<li>100 Emails</li>
+			<li>50 Domains</li>
+			<li>250 GB Bandwidth</li>
+			<li>Premium support</li>
+			<li>Plugin Bundle</li>
+			<li>Free updates</li>
+			<li>Fix bugs and errors</li>
+			<li><a class="button" href="#">Order Now</a></li>
+		</ul>
+	</div> <!-- .one three -->
+	<div class="one_three box">
+		<h3 class="plan-name">Professional</h3>
+		<div class="plan-price">$ 199 / month</div>
+		<ul class="plan-details">
+			<li>50 GB Storage</li>
+			<li>Unlimited Emails</li>
+			<li>Unlimited Domains</li>
+			<li>Unlimited GB Bandwidth</li>
+			<li>Premium support</li>
+			<li>Plugin Bundle</li>
+			<li>Free updates</li>
+			<li>Fix bugs and errors</li>
+			<li><a class="button" href="#">Order Now</a></li>
+		</ul>
+	</div> <!-- .one three -->
+</div><!-- /.pricing -->

@@ -1,0 +1,5 @@
+<p>E-mail: contact@drupar.com</p>
+
+<p>Phone: +1 8276 - 574 - 002</p>
+
+<p>website: www.example.com</p>

@@ -1,0 +1,9 @@
+Basic Drupal 8 Tutorial
+-----------------------------------------------------------
+https://www.drupar.com/basic-drupal-8-tutorials
+
+
+
+Please visit below link for complete theme documentation:
+-----------------------------------------------------------
+https://www.drupar.com/tarapro-documentation

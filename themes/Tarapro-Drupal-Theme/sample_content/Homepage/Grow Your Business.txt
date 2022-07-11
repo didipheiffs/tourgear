@@ -1,0 +1,16 @@
+<div class="full">
+	<div class="one_half animate-fadeIn">
+		<h3 class="title">Grow Your <em>Business</em> With <em>TaraPro</em></h3>
+		<p>After all, as described in Web Design Trends, vision dominates a lot of our subconscious interpretation of the world around us. On top it, pleasing images create a better user experience. Rounding up a bunch of specific designs and talking about the merits of each is the perfect way!</p>
+		<ul>
+			<li>Award-winning responsive design</li>
+			<li>Creative and engaging visual identity</li>
+			<li>Clever social media marketing campaigns</li>
+			<li>Video, animation and motion graphic design</li>
+		</ul>
+		<a class="button" href="#">Read more</a>
+	</div><!-- end fone_half -->
+	<div class="one_half animate-zoomIn delay-1s">
+		<p><img alt="image" src="/themes/tarapro/images/demo/content/2.jpg" /></p>
+	</div><!-- end one_half -->
+</div><!-- end full -->

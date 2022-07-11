@@ -1,0 +1,47 @@
+Success Message
++-----------------------------------------+
+<div class="message-success">
+your success message
+</div>
+
+
+
+Info Message
++-----------------------------------------+
+<div class="message-info">
+Your info message
+</div>
+
+
+
+Error Message
++-----------------------------------------+
+<div class="message-error">
+Your error message
+</div>
+
+
+
+Warning Message
++-----------------------------------------+
+<div class="message-warning">
+your warning message
+</div>
+
+
+
+
+Announcement Message
++-----------------------------------------+
+<div class="message-announcement">
+your announcement message
+</div>
+
+
+
+
+Notice Message
++-----------------------------------------+
+<div class="message-notice">
+your notice message
+</div>

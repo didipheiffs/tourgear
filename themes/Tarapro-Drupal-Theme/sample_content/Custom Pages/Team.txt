@@ -1,0 +1,53 @@
+<div class="full">
+	<h3 class="title">Meet Our <em>Team</em></h3>
+	<p class="text_center width50">We love what we do and we do it with passion. We value the experimentation, the reformation of the message, and the smart incentives.</p>
+</div>
+<div class="full">
+<div class="one-three box">
+	<img src="/images/demo-images/team/1.jpg" alt="image" />
+	<p>Began Vives<br />
+	Project Manager<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></p>
+</div>
+<div class="one-three box">
+	<img src="/images/demo-images/team/2.jpg" alt="image" />
+	<p>
+	Jenny Wilson<br />
+	Managing Director<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+	</p>
+</div>
+<div class="one-three box">
+	<img src="/images/demo-images/team/3.jpg" alt="image" />
+	<P>
+	Hemant Saran<br />
+	Marketing Director<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+	</P>
+</div>
+</div><!-- /.full -->
+
+<div class="full animate-fadeInUp">
+<div class="one-three box">
+	<img src="/images/demo-images/team/4.jpg" alt="image" />
+	<p>Began Vives<br />
+	Project Manager<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></p>
+</div>
+<div class="one-three box">
+	<img src="/images/demo-images/team/5.jpg" alt="image" />
+	<p>
+	Jenny Wilson<br />
+	Managing Director<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+	</p>
+</div>
+<div class="one-three box">
+	<img src="/images/demo-images/team/6.jpg" alt="image" />
+	<P>
+	Hemant Saran<br />
+	Marketing Director<br />
+	<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a> <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+	</P>
+</div>
+</div><!-- /.full -->

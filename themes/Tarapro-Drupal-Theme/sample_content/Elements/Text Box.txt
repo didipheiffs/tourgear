@@ -1,0 +1,22 @@
+Default Text Box
++----------------------------------+
+<div class="text-box">
+your content here....
+</div>
+
+
+
+
+Dark Text Box
++----------------------------------+
+<div class="text-box dark">
+your content here....
+</div>
+
+
+
+Themed Text Box
++----------------------------------+
+<div class="text-box theme">
+your content here....
+</div>

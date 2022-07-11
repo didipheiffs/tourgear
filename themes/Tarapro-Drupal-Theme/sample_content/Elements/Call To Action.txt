@@ -1,0 +1,24 @@
+Default Call To Action
++---------------------------------+
+<div class="call-to-action">
+	<div class="two-three"><h4>TaraPro is a clean and modern Drupal theme</h4></div>
+	<div class="one-three text-align-center"><a href="#" class="button">Buy Now</a></div>
+</div>
+
+
+
+Dark Call To Action
++---------------------------------+
+<div class="call-to-action dark">
+	<div class="two-three"><h4>TaraPro is a clean and modern Drupal theme</h4></div>
+	<div class="one-three text-align-center"><a href="#" class="button">Buy Now</a></div>
+</div>
+
+
+
+Themed Call To Action
++---------------------------------+
+<div class="call-to-action theme">
+	<div class="two-three"><h4>TaraPro is a clean and modern Drupal theme</h4></div>
+	<div class="one-three text-align-center"><a href="#" class="button">Buy Now</a></div>
+</div>

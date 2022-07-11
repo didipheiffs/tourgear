@@ -1,0 +1,5 @@
+<div class="clients owl-carousel">
+	<div class="item"><img src="/images/demo-images/clients/client1.png" alt="client" /></div>
+	<div class="item"><img src="/images/demo-images/clients/client2.png" alt="client" /></div>
+	<div class="item"><img src="/images/demo-images/clients/client3.png" alt="client" /></div>
+</div>

@@ -1,0 +1,27 @@
+<div class="projects">
+<div class="project animate-fadeInUp"><img alt="project" src="/images/demo-images/projects/project1.jpg">
+<div class="project-content">
+<h4><a href="/tarapro/projects/binkaro-card">Binkaro Card</a></h4>
+
+<p><a href="/tarapro/projects/binkaro-card">Lorem ipsum dolor sit amet consectetur</a></p>
+</div>
+</div>
+<!--/.project one -->
+
+<div class="project animate-fadeInUp"><img alt="project" src="/images/demo-images/projects/project2.jpg">
+<div class="project-content">
+<h4><a href="/tarapro/projects/zaika-coffee-cup">Zaika Coffee Cup</a></h4>
+
+<p><a href="/tarapro/projects/zaika-coffee-cup">Lorem ipsum dolor sit amet consectetur</a></p>
+</div>
+</div>
+<!--/.project two -->
+
+<div class="project animate-fadeInUp"><img alt="project" src="/images/demo-images/projects/project3.jpg">
+<div class="project-content">
+<h4><a href="/tarapro/projects/beautiful-house-design">Beautiful House Design</a></h4>
+
+<p><a href="/tarapro/projects/beautiful-house-design">Lorem ipsum dolor sit amet consectetur</a></p>
+</div>
+</div>
+<!--/.project three --></div>

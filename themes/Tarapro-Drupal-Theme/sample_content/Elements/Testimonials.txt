@@ -1,0 +1,17 @@
+<div class="testimonials owl-carousel">
+	<div class="item">
+		<p>testimonial one...</p>
+		<p class="name">Name One</p>
+		<p class="firm">Company one</p>
+	</div>
+	<div class="item">
+		<p>testimonial two...</p>
+		<p class="name">Name two</p>
+		<p class="firm">Company two</p>
+	</div>
+	<div class="item">
+		<p>testimonial three...</p>
+		<p class="name">Name Three</p>
+		<p class="firm">Company three</p>
+	</div>
+</div>

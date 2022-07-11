@@ -1,0 +1,3 @@
+<div class="animate-fadeInRight">
+-- put your content here --
+</div>

@@ -1,0 +1,34 @@
+Default Button
++---------------------------------+
+<a href="#" class="button" role="button">Button Text</a>
+<button type="button">Button Text</button>
+
+
+
+Dark Button
++---------------------------------+
+<a href="#" class="button-dark" role="button">Button Text</a>
+<button class="button-dark" type="button">Button Text</button>
+
+
+
+Round Button
++---------------------------------+
+<a href="#" class="button-round" role="button">Button Text</a>
+<button class="button-round" type="button">Button Text</button>
+
+
+
+Outlined Button
++---------------------------------+
+<a href="#" class="button-outline" role="button">Button Text</a>
+<button class="button-outline" type="button">Button Text</button>
+
+
+
+Animated button
++---------------------------------+
+<a href="#" class="button-animate" role="button">Button Text</a>
+<button class="button-animate" type="button">Button Text</button>
+
+

@@ -1,0 +1,3 @@
+Dropcap
++-------------------------------------+
+<p class="dropcap">Sample paragraph with dropcap</p>

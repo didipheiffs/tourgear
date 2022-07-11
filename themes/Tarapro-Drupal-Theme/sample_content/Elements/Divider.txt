@@ -1,0 +1,22 @@
+Single Line Divider
++-----------------------------------+
+<div class="line"></div>
+
+
+
+Double Line Divider
++-----------------------------------+
+<div class="line-double"></div>
+
+
+
+Dash Line Divider
++-----------------------------------+
+<div class="line-dash"></div>
+
+
+
+
+Dots Line Divider
++-----------------------------------+
+<div class="line-dot"></div>

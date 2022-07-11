@@ -1,0 +1,18 @@
+<ul class="tabs">
+  <li><a href="#tab1">One</a></li>
+  <li><a href="#tab2">Two</a></li>
+  <li><a href="#tab3">Three</a></li>
+  <li><a href="#tab3">Four</a></li>
+</ul>
+<div class="tab-content" id="tab1">
+  content of tab one
+</div>
+<div class="tab-content" id="tab2">
+  content of tab two
+</div>
+<div class="tab-content" id="tab3">
+  content of tab three
+</div>
+<div class="tab-content" id="tab4">
+  content of tab four
+</div>

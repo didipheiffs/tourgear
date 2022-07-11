@@ -1,0 +1,22 @@
+<div class="services">
+	<div class="service animate-fadeInUp">
+		<i class="fa fa-gift" aria-hidden="true"></i>
+		<h3>Branding</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service one -->
+	
+	<div class="service animate-fadeInUp">
+		<i class="fa fa-bullhorn" aria-hidden="true"></i>
+		<h3>Marketing</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service two -->
+	
+	<div class="service animate-fadeInUp">
+		<i class="fa fa-cogs" aria-hidden="true"></i>
+		<h3>Development</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim temporibus quae, aliquid!</p>
+		<a class="button" href="#">read more</a>
+	</div> <!--/.service three -->
+</div>
