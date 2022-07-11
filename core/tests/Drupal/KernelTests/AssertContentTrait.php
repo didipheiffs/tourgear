@@ -8,6 +8,7 @@ use Drupal\Component\Render\FormattableMarkup;
 use Drupal\Component\Utility\Xss;
 use Drupal\Core\Render\RenderContext;
 use Symfony\Component\CssSelector\CssSelectorConverter;
+use TRegx\CleanRegex\Pattern;
 
 /**
  * Provides test methods to assert content.
@@ -189,12 +190,8 @@ trait AssertContentTrait {
         $value = count($parts) > 1 ? 'concat(' . implode(', \'"\', ', $parts) . ')' : $parts[0];
       }
 
-      // Use preg_replace_callback() instead of preg_replace() to prevent the
-      // regular expression engine from trying to substitute backreferences.
-      $replacement = function ($matches) use ($value) {
-        return $value;
-      };
-      $xpath = preg_replace_callback('/' . preg_quote($placeholder) . '\b/', $replacement, $xpath);
+      $pattern = Pattern::inject('@\b', [$placeholder]);
+      $xpath = $pattern->replace($xpath)->with($value);
     }
     return $xpath;
   }
